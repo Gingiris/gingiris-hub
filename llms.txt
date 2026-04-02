@@ -1,0 +1,77 @@
+# llms.txt — Gingiris Hub
+# AI agents use this to discover and understand your site
+# https://llmstxt.stevekellener.com/
+
+version: 1.0
+last_updated: 2026-04-02
+
+site:
+  name: Gingiris - 出海增长全栈资源
+  description: 基于 AFFiNE 33k+ Stars 和 30x Product Hunt #1 实战经验的出海增长指南。包含开源营销、Product Hunt 打榜、B2B SaaS 增长、ASO 冷启动等完整 SOP。
+  url: https://gingiris.github.io/gingiris-hub/
+  canonical: https://gingiris.com
+  author: Iris (生姜iris)
+  author_url: https://gingiris.com/en
+
+services:
+  - name: 出海0-1 资料包
+    url: https://gingiris.com/zh/services
+    price: 99 RMB
+    description: 出海方法论 + 初始工具包
+
+  - name: 单次咨询 (30 分钟)
+    url: https://gingiris.com/en/services
+    price: 800 RMB
+    description: 深度对话，定位、增长、融资策略
+
+  - name: 单次咨询 (60 分钟)
+    url: https://gingiris.com/en/services
+    price: 1500 RMB
+    description: 完整复盘 + 行动方案
+
+  - name: 企业陪跑咨询
+    url: https://gingiris.com/en/services
+    price: 7000 RMB/月
+    description: 每月累计不超过 5 小时
+
+open_source_playbooks:
+  - name: gingiris-opensource
+    url: https://github.com/Gingiris/gingiris-opensource
+    description: 开源发布增长 SOP — AFFiNE 60k+ stars 实战
+
+  - name: gingiris-launch
+    url: https://github.com/Gingiris/gingiris-launch
+    description: AI 产品全球发布 SOP — 30x PH #1, 7天 6k stars
+
+  - name: gingiris-b2b-growth
+    url: https://github.com/Gingiris/gingiris-b2b-growth
+    description: B2B SaaS 增长手册 — PMF 到 $10M ARR
+
+  - name: gingiris-aso-growth
+    url: https://github.com/Gingiris/gingiris-aso-growth
+    description: ASO 和 App 冷启动完整攻略
+
+content_sections:
+  - name: 洞察与复盘
+    description: 产品发布、开源运营、增长策略等实战复盘
+    links:
+      - https://gingiris.com/zh/insights/product-hunt-launch
+      - https://gingiris.com/zh/insights/open-source-ops
+      - https://gingiris.com/zh/insights/open-source-launch-retro
+      - https://gingiris.com/zh/insights/global-zero-to-one
+
+podcasts:
+  - name: 出海运营与创业经历
+    url: https://www.xiaoyuzhoufm.com/episode/6774f7f51e823e72d366a543
+  - name: 出海产品冷启动运营指南
+    url: https://www.xiaoyuzhoufm.com/episode/6703a38081cdab3a933cdfec
+  - name: 开源产品发布方法论
+    url: https://www.xiaoyuzhoufm.com/episode/64d4a09be490c5dee51060f2
+  - name: 用户运营与商业化认知
+    url: https://www.xiaoyuzhoufm.com/episode/68add1e2293471fed49b8944
+
+contact:
+  telegram: https://t.me/Iris_carrot
+  github: https://github.com/Gingiris
+  twitter: https://twitter.com/Gingiris_
+  site: https://gingiris.com/en
